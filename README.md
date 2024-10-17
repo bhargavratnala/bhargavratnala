@@ -18,6 +18,7 @@ I'm a passionate full-stack developer, tech enthusiast, and AI explorer from Ind
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavratnala&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavratnala" /> </p>
 
+<div style="display: flex; flex-wrap: wrap;">
 <p>
 <picture>
   <source
@@ -45,6 +46,7 @@ I'm a passionate full-stack developer, tech enthusiast, and AI explorer from Ind
   <img src="https://github-readme-stats.vercel.app/api?username=bhargavratnala&show_icons=true" />
 </picture>
 </p>
+</div>
 
 <p>
 <picture>
