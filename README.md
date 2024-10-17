@@ -18,6 +18,7 @@ I'm a passionate full-stack developer, tech enthusiast, and AI explorer from Ind
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavratnala&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavratnala" /> </p>
 
+<p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavratnala&layout=compact&langs_count=6&theme=transparent&hide_border=true"
@@ -29,7 +30,9 @@ I'm a passionate full-stack developer, tech enthusiast, and AI explorer from Ind
   />
   <img src="https://github-readme-stats.vercel.app/api?username=bhargavratnala&show_icons=true" />
 </picture>
+</p>
 
+<p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=bhargavratnala&show_icons=true&theme=transparent&hide_border=true"
@@ -41,6 +44,7 @@ I'm a passionate full-stack developer, tech enthusiast, and AI explorer from Ind
   />
   <img src="https://github-readme-stats.vercel.app/api?username=bhargavratnala&show_icons=true" />
 </picture>
+</p>
 
 <p>
 <picture>
