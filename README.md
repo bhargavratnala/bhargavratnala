@@ -39,47 +39,61 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=bhargavratnala&show_icons=true" />
 </picture>
 
-<div class="projects">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=codespace&theme=transparent"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=codespace"
-    media="(prefers-color-scheme: dark)"
-  />
-
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=codespace&theme=transparent"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=codespace"
+      media="(prefers-color-scheme: dark)"
+    />
+  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=codespace&theme=transparent)](https://github.com/bhargavratnala/codespace)
 
-</picture>
+  </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io&theme=transparent"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io"
-    media="(prefers-color-scheme: dark)"
-  />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io&theme=transparent"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io"
+      media="(prefers-color-scheme: dark)"
+    />
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io&theme=transparent)](https://github.com/bhargavratnala/codespace)
 
-</picture>
+  </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm&theme=transparent"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm"
-    media="(prefers-color-scheme: dark)"
-  />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm&theme=transparent"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm"
+      media="(prefers-color-scheme: dark)"
+    />
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm&theme=transparent)](https://github.com/bhargavratnala/codespace)
 
-</picture>
+  </picture>
+ 
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=TOCmodelDemo&theme=transparent"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=TOCmodelDemo"
+      media="(prefers-color-scheme: dark)"
+    />
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=TOCmodelDemo&theme=transparent)](https://github.com/bhargavratnala/codespace)
+
+  </picture>
 </div>
