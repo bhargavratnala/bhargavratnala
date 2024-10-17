@@ -14,13 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-  .projects{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-  }
-</style>
 
 <picture>
   <source
@@ -48,13 +41,45 @@ Here are some ideas to get you started:
 
 <div class="projects">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=codespace&theme=transparent#gh-dark-mode-only)](https://github.com/bhargavratnala/codespace)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=codespace&theme=transparent#gh-light-mode-only)](https://github.com/bhargavratnala/codespace)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=codespace&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=codespace"
+    media="(prefers-color-scheme: dark)"
+  />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io&theme=transparent#gh-dark-mode-only)](https://github.com/bhargavratnala/codespace)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io&theme=transparent#gh-light-mode-only)](https://github.com/bhargavratnala/codespace)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=codespace&theme=transparent)](https://github.com/bhargavratnala/codespace)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm&theme=transparent#gh-dark-mode-only)](https://github.com/bhargavratnala/codespace)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm&theme=transparent#gh-light-mode-only)](https://github.com/bhargavratnala/codespace)
+</picture>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io"
+    media="(prefers-color-scheme: dark)"
+  />
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io&theme=transparent)](https://github.com/bhargavratnala/codespace)
+
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm"
+    media="(prefers-color-scheme: dark)"
+  />
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm&theme=transparent)](https://github.com/bhargavratnala/codespace)
+
+</picture>
 </div>
