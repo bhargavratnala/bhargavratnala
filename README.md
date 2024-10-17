@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
-  <picture>
+  <picture style="margin: 5px;">
     <source
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=codespace&theme=transparent"
       media="(prefers-color-scheme: dark)"
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
   </picture>
 
-  <picture>
+  <picture style="margin: 5px;">
     <source
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io&theme=transparent"
       media="(prefers-color-scheme: dark)"
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
   </picture>
 
-  <picture>
+  <picture style="margin: 5px;">
     <source
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm&theme=transparent"
       media="(prefers-color-scheme: dark)"
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
   </picture>
  
-  <picture>
+  <picture style="margin: 5px;">
     <source
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=TOCmodelDemo&theme=transparent"
       media="(prefers-color-scheme: dark)"
@@ -96,4 +96,3 @@ Here are some ideas to get you started:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=TOCmodelDemo&theme=transparent)](https://github.com/bhargavratnala/codespace)
 
   </picture>
-</div>
