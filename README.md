@@ -1,19 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Bhargav Ratnala 👋
 
-<!--
-**bhargavratnala/bhargavratnala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
 
-Here are some ideas to get you started:
+I'm a passionate full-stack developer, tech enthusiast, and AI explorer from India. Currently, I'm working as a **Junior Research Fellow (JRF)** at GMRIT on a project focused on **pineapple disease classification and maturity detection** in collaboration with IIT Roorkee.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning:
+  - **C Programming** and exploring **core directives and headers**.
+  - **Web Development Roadmap**: Becoming proficient in front-end and back-end technologies.
+
+- 💬 Ask me about:
+  - Full-stack development with **Django** and **Laravel**.
+  - AI/ML applications in software solutions.
+  - Backend systems, algorithm design, and competitive programming.
+
+- ⚡ Fun fact: I'm a **3-star coder on CodeChef** and have built a coding platform for hosting coding contests at my college!
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavratnala&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavratnala" /> </p>
 
 <picture>
   <source
@@ -39,60 +42,58 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=bhargavratnala&show_icons=true" />
 </picture>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=codespace&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=codespace"
+    media="(prefers-color-scheme: dark)"
+  />
 
-  <picture style="margin: 5px;">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=codespace&theme=transparent"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=codespace"
-      media="(prefers-color-scheme: dark)"
-    />
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=codespace&theme=transparent)](https://github.com/bhargavratnala/codespace)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=codespace&theme=transparent)](https://github.com/bhargavratnala/codespace)
 
-  </picture>
+</picture>
 
-  <picture style="margin: 5px;">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io&theme=transparent"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io"
-      media="(prefers-color-scheme: dark)"
-    />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io"
+    media="(prefers-color-scheme: dark)"
+  />
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io&theme=transparent)](https://github.com/bhargavratnala/codespace)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io&theme=transparent)](https://github.com/bhargavratnala/codespace)
 
-  </picture>
+</picture>
 
-  <picture style="margin: 5px;">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm&theme=transparent"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm"
-      media="(prefers-color-scheme: dark)"
-    />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm"
+    media="(prefers-color-scheme: dark)"
+  />
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm&theme=transparent)](https://github.com/bhargavratnala/codespace)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm&theme=transparent)](https://github.com/bhargavratnala/codespace)
 
-  </picture>
- 
-  <picture style="margin: 5px;">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=TOCmodelDemo&theme=transparent"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=TOCmodelDemo"
-      media="(prefers-color-scheme: dark)"
-    />
+</picture>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=TOCmodelDemo&theme=transparent)](https://github.com/bhargavratnala/codespace)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=TOCmodelDemo&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=TOCmodelDemo"
+    media="(prefers-color-scheme: dark)"
+  />
 
-  </picture>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=TOCmodelDemo&theme=transparent)](https://github.com/bhargavratnala/codespace)
+
+</picture>
