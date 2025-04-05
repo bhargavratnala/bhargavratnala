@@ -89,7 +89,7 @@ I'm a passionate full-stack developer, tech enthusiast, and AI explorer from Ind
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io&theme=transparent)](https://github.com/bhargavratnala/codespace)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=bhargavratnala.github.io&theme=transparent)](https://github.com/bhargavratnala/bhargavratnala.github.io)
 
 </picture>
 
@@ -103,7 +103,7 @@ I'm a passionate full-stack developer, tech enthusiast, and AI explorer from Ind
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm&theme=transparent)](https://github.com/bhargavratnala/codespace)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=prims-algorithm&theme=transparent)](https://github.com/bhargavratnala/prims-algorithm)
 
 </picture>
 
@@ -117,6 +117,6 @@ I'm a passionate full-stack developer, tech enthusiast, and AI explorer from Ind
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=TOCmodelDemo&theme=transparent)](https://github.com/bhargavratnala/codespace)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavratnala&repo=TOCmodelDemo&theme=transparent)](https://github.com/bhargavratnala/TOCmodelDemo)
 
 </picture>
